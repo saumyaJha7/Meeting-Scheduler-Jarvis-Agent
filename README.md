@@ -1,6 +1,6 @@
 # Jarvis Agent
 
-Jarvis is an Expo (React Native) voice assistant app for a university HOD (Head of Department) workflow. It pairs a real-time voice AI agent (ElevenLabs) with a live Google Calendar timeline, letting the department head talk to "Jarvis" to review and schedule meetings, while students get a read-only view of the HOD's daily availability.
+Jarvis is an Expo (React Native) voice assistant app for university HOD (Head of Department) workflow. It pairs a real-time voice AI agent (ElevenLabs) with a live Google Calendar timeline, letting the department head talk to "Jarvis" to review and schedule meetings, while students get a read-only view of the HOD's daily availability.
 
 ## Features
 
